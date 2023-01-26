@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RRoad",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -80.80337353348186, 35.179886863604104 ], [ -80.799260681098602, 35.176970179443863 ], [ -80.798261143268405, 35.175888712283324 ], [ -80.79667171425973, 35.171890560962545 ] ] ] } }
+]
+}
